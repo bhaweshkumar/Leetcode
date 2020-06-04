@@ -15,3 +15,5 @@ print(smoothies[3:])
 print(smoothies[0:1])
 print(smoothies[-1])
 print(smoothies[-3:])
+
+
