@@ -17,4 +17,4 @@ class PartitionArray:
 test = PartitionArray()
 
 print(test.partition([3, 1, 2]))
-#print(test.partition([2, 4, 2, 2, 2]))
+print(test.partition([2, 5, 2, 2, 2]))
